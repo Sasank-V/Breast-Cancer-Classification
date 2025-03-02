@@ -1,3 +1,8 @@
 Results
 datasets
 */*.pth
+Lib
+Include
+Scripts
+*.cfg
+share
