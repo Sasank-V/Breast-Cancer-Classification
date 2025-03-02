@@ -52,7 +52,8 @@ deactivate
 Breast-Cancer-Classification/
 │── code/
 │   ├── train.py  # CNN training script
-│── data/  # Dataset (not included in repo)
+│── datasets/  # Dataset (not included in repo)
+│   ├── all_images/ # Place the Images Data here
 │── requirements.txt  # Required packages
 │── README.md  # Setup and usage guide
 ```
