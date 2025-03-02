@@ -60,7 +60,7 @@ Breast-Cancer-Classification/
 
 ## Notes
 - Ensure that you have Python installed (3.8 or above recommended).
-- The dataset should be placed inside the `data/` folder before training.
+- The dataset should be placed inside the `datasets/all_images/` folder before training.
 - Modify `train.py` as needed for hyperparameter tuning.
 
 Happy Coding! 🚀
